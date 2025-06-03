@@ -22,5 +22,6 @@ def main():
     except ZeroDivisionError:
         print("Não é possível dividir por zero.")
 
+
 if __name__ == "__main__":
     main()
